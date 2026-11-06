@@ -1,0 +1,6 @@
+{
+	"name": "bun-bedrock",
+	"version": "0.1.0",
+	"description": "Keeps Claude on bun and bunx, and adds /adopt to set a repo up with bun-bedrock.",
+	"author": { "name": "xsyetopz" }
+}
